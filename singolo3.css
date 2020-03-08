@@ -1,0 +1,53 @@
+@import "fonts.css";
+
+html {
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  margin: 0 auto;
+  width: 1020px;
+}
+
+.wrap-get-a-quote-top {
+  width: 100%;
+  height: 648px;
+  background-color: #f06c64;
+}
+
+.wrap-inner-get-a-quote-top {
+  width: 940px;
+  margin: 0 auto;
+  padding-top: 46px;
+  padding-bottom: 64px;
+
+  border: 1px solid black;
+}
+
+.get-a-quote-title {
+  font-size: 30px;
+  line-height: 18px;
+  font-weight: 900;
+  color: #f0d8d9;
+}
+
+.get-a-quote-text-intro {
+  margin: 0;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 300;
+  color: #f0d8d9;
+}
+
+.wrap-get-a-quote-bottom {
+  width: 100%;
+  height: 6px;
+  background-color: #ea676b;
+}
+
+.footer {
+  width: 100%;
+  height: 76px;
+  background-color: #2d303a;
+}
+
