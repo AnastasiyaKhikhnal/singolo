@@ -124,6 +124,21 @@ textarea {
   font-weight: 400;
 }
 
+/*.wrap-contacts-icon {*/
+  /*display: flex;*/
+  /*flex-direction: row;*/
+
+/*}*/
+
+.tel-link {
+  text-decoration: none;
+}
+
+.cont-icon {
+  padding-right: 10px;
+}
+
+
 
 
 
